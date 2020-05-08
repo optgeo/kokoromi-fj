@@ -6934,7 +6934,7 @@
   "site_root": "https://optgeo.github.io/kokoromi-fj",
   "sources": {
     "v": {
-      "attribution": "OpenStreetMap contributors",
+      "attribution": "OpenStreetMap contributors, <img src='https://unopengis.github.io/watermark/watermark.png'>",
       "maxzoom": 15,
       "tiles": [
         "https://optgeo.github.io/kokoromi-fj/zxy/{z}/{x}/{y}.pbf"
